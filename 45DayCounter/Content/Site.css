@@ -1,0 +1,18 @@
+﻿body {
+  text-align:center;
+  background:#EEEEEE;
+  font-family:sans-serif;
+  font-weight:100;
+}
+h2{
+  font-weight:100;
+  color:#F4511E;
+  margin:40px 0px 20px;
+}
+h3{
+  color:#F4511E;
+}
+#clockdiv{
+  display:inline-block;
+  font-size:20px;
+}
